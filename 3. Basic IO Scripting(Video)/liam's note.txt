@@ -1,0 +1,7 @@
+(procedure)
+→ droidcam used cus i dont hav webcam 👍👍
+→ used my own image to output an image (output show my imag.jpg) 👍👍
+(sup act used files)
+→ vid cap : 'brodie hold on.mp4'
+→ img : 'supactchar'
+→ 
